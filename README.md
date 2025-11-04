@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yannick Tonga 👨
-- 👀 I’m interested in Data science 👨‍💻
+- 👀 I’m interested in Data science and Finance 👨‍💻
 - 🌱 I’m currently learning Data analytics 📊
 - 💞️ I’m looking for an internship as a data analyst 👨🏾‍💼
-- 📫 I like using Python, Power BI, Tableau, Microsoft Excel and SQL 🛠
+- 📫 I like using Python, Power BI, Tableau, Microsoft Excel, and SQL 🛠
 - ✉️ I'm available on Gmail: yannicktonga07@gmail.com 
 
 <!---
