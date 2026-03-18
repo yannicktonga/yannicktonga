@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data analytics 📊
 - 💞️ I’m looking for an internship as a data analyst 👨🏾‍💼
 - 📫 I like using Python, Power BI, Tableau, Microsoft Excel, and SQL 🛠
-- ✉️ I'm available on Gmail: yannicktonga07@gmail.com 
+- ✉️ I'm available on Gmail or LinkedIn: yannicktonga07@gmail.com / www.linkedin.com/in/yannick-tonga-b351813b7
 
 <!---
 yannicktonga/yannicktonga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
